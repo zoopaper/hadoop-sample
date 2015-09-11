@@ -7,6 +7,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 
 /**
+ * Reducer
  * <p/>
  * User : krisibm@163.com
  * Date: 2015/4/4
